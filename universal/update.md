@@ -110,5 +110,5 @@ So the process goes as follows:
   
 **macOS Big Sur**:
 
-* 11.0.1
+* 11.xx.x
   * See here: [OpenCore and macOS 11: Big Sur](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/)
